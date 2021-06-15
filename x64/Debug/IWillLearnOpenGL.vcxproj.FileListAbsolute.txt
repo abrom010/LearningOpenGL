@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\IWillLearnOpenGL\x64\Debug\IWillLearnOpenGL.exe
+C:\Users\user\source\repos\IWillLearnOpenGL\x64\Debug\IWillLearnOpenGL.pdb
